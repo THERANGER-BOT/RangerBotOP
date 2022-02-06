@@ -46,7 +46,7 @@ height="40px" width="200px" alt="heroku" /></a>
 - Your Deadly Bot Session Will be saved in your Telegram Saved Message.
 
 ## 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 
-   <a href="https://replit.com/@mafiarishabh/THANOS?v=1" target="_blank"><img src="https://img.shields.io/badge/run-ranger%50session-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+   <a href="https://replit.com/@mafiarishabh/THANOS?v=1" target="_blank"><img src="https://img.shields.io/badge/run-ranger%20session-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
     
 -------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
@@ -68,17 +68,3 @@ height="40px" width="200px" alt="heroku" /></a>
 - If you fork this repo and edit plugins, it's your concern for further updates.
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
-
-
-
-
-
-<summary> • plugin CREDITS • </summary>
-<h2 align="center"> <a href="https://github.com/REBEL75/REBELBOT">💥REBEL💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
-
-
-<h2 align="center"> <a href="https://github.com/LEGEND-OS/LEGENDBOT">💥LEGEND💥</a></h2>
-</details>
-
-<details>
