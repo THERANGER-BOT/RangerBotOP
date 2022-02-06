@@ -25,13 +25,13 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
-- <a href="https://t.me/thanos_userbots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-blue.svg?logo=Telegram"></a>
-- <a href="https://t.me/thanosbot_chats"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-blue.svg?logo=Telegram"></a>
+- <a href="https://t.me/The_Rangerbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-blue.svg?logo=Telegram"></a>
+- <a href="https://t.me/The_Rangerbot"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-blue.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 # 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
-<a href="https://heroku.com/deploy?template=https://github.com/thanosuser/ThanosBot-v5" target="_blank"><img src="https://img.shields.io/badge/ＤΞＰＬ♢Ｙ%20ＴＨΛＮ♢Ｓ%20√４-blue?style=for-the-badge&logo=heroku" 
+<a href="https://heroku.com/deploy?template=https://github.com/thanosuser/ThanosBot-v5" target="_blank"><img src="https://img.shields.io/badge/ＤΞＰＬ♢Ｙ%20RANGER%20BOT-black?style=for-the-badge&logo=heroku" 
 height="40px" width="200px" alt="heroku" /></a>
 
 ------------------------------------------------
